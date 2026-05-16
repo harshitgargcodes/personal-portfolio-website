@@ -4,15 +4,14 @@ A simple personal portfolio website built with HTML, CSS, and JavaScript.
 
 ## Features
 
-- Clean portfolio homepage
+- Clean portfolio layout
 - About section
 - Skills section
 - Services section
 - Projects section
 - Contact section
 - Interactive lesson dashboard demo
-- Lesson filtering by plan
-- Lesson search using JavaScript
+- Search and filter functionality using JavaScript
 
 ## Tech Stack
 
@@ -22,16 +21,17 @@ A simple personal portfolio website built with HTML, CSS, and JavaScript.
 
 ## What I Practiced
 
-- Semantic HTML
+- Semantic HTML structure
 - CSS styling and layout
 - JavaScript DOM manipulation
-- Search and filter logic
-- Basic project structure
+- Search functionality
+- Filter logic
+- Basic project organization
 
 ## Purpose
 
-I built this project to practice frontend development and create a beginner-friendly portfolio for freelance work.
+I built this project to practice frontend development and create a simple freelance-ready portfolio project.
 
 ## Status
 
-Completed basic version. Improving design and responsiveness.
+Basic version completed. I am improving the design and responsiveness.
