@@ -28,6 +28,10 @@ A simple personal portfolio website built with HTML, CSS, and JavaScript.
 - Filter logic
 - Basic project organization
 
+- ## Live Demo
+
+View the live website here: https://harshitgargcodes.github.io/personal-portfolio-website/ 
+
 ## Purpose
 
 I built this project to practice frontend development and create a simple freelance-ready portfolio project.
